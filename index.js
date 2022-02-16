@@ -4,5 +4,6 @@ console.log (meno, vek);
 let jeZivy = true;
 let jeMuz = false;
 let priemer = 3.48;
+console.log (jeZivy);
 
 
