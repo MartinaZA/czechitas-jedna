@@ -1,6 +1,4 @@
-// Import stylesheets
-import './style.css';
+let meno = "Martina";
+let vek = 38;
+console.log (meno, vek);
 
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
