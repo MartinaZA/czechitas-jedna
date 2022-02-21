@@ -23,10 +23,11 @@ console.log("ahoj dievcata");
 
 let f = 0;
 if (f==0)
-f=1;
+f=3;
 else f=0;
 document.write(f);
-console.log(f);
+
+
 
 
 
