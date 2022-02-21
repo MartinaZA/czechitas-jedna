@@ -26,6 +26,8 @@ if (f==0)
 f=1;
 else f=0;
 document.write(f);
+console.log(f);
+
 
 
 
