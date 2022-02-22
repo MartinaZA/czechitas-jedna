@@ -6,3 +6,6 @@ právo řídit auto.
 b) Vaše jméno je Marian, je vám 14 let a tak musíte 
 počkat ještě 4 let, než budete moci řídit aut
 
+
+let menoUzivatela = prompt("ako sa volas?");
+console.log
