@@ -1,3 +1,3 @@
-import './ukol1';
+import "./ukol1";
 console.log("tralala");
 
