@@ -1,3 +1,4 @@
-import "./ukol1";
+import './promenne/ukol1.js';
 console.log("tralala");
+
 
