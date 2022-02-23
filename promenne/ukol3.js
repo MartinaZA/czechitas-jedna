@@ -8,6 +8,6 @@ počkat ještě 4 let, než budete moci řídit aut
 */
 
 let menoUzivatela = prompt("Ako sa volas?");
-let vekUzivatela = Number (prompt ("Kolko mas rokov?"));
+let vekUzivatela = Number ('prompt ("Kolko mas rokov?")');
 console.log(menoUzivatela a vekUzivatela);
 
