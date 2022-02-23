@@ -18,7 +18,8 @@ if (a>b) {
 
     if ((b+c)>a) {
     console.log(`Najvacsie cislo je ${a}. Trojuholnik je mozne zostrojit.`)
-  } else { console.log(`Trojuholnik nie je mozne zostrojit, pretoze sucet dvoch mensich stran je mensi ako najdlhsia strana.`)
+  } else 
+  { console.log(`Trojuholnik nie je mozne zostrojit, pretoze sucet dvoch mensich stran je mensi ako najdlhsia strana.`)
   }
 
   else { console.log(`Najvacie cislo je ${c}.`)}
