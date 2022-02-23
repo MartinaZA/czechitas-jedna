@@ -9,6 +9,10 @@ počkat ještě 4 let, než budete moci řídit aut
 
 let menoUzivatela = prompt("Ako sa volas?");
 let vekUzivatela = Number (prompt ("Kolko mas rokov?"));
-console.log(menoUzivatela);
-console.log(vekUzivatela);
 
+if(vekUzivatela>18) {
+console.log(`Vase meno je ${menoUzivatela}, je Vam ${vekUzivatela} a tak mate pravo riadit auto`)
+}
+else {
+console.log(`Vase meno je ${menoUzivatela}, je Vam ${vekUzivatela} a tak musite este pockat ${18-vekUzivatela} rokov, aby ste mohli riadit auto`)
+}
