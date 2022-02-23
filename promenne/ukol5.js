@@ -21,7 +21,7 @@ if (a>b) {
   } else { console.log(`Trojuholnik nie je mozne zostrojit, pretoze sucet dvoch mensich stran je mensi ako najdlhsia strana.`)
   }
 
-  else { console.log(`Najvacie cislo je ${c}`)}
+  else { console.log(`Najvacie cislo je ${c}.`)}
 
 }
 }
