@@ -6,3 +6,4 @@ import './promenne/ukol3.js';
 
 import './promenne/ukol4.js';
 
+import './promenne/ukol5.js';
