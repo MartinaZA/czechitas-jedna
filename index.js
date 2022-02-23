@@ -5,3 +5,4 @@ console.log("tralala");
 import './promenne/ukol2.js';
 
 import './promenne/ukol3.js';
+
