@@ -1,2 +1,2 @@
-import './promenne/ukol9.js';
+import './promenne/ukol8.js';
 
