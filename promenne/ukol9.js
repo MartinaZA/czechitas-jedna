@@ -10,7 +10,7 @@ Výstup:
 
 let HorniMez = Number ( prompt ("zadaj horni mez:"));
 
-while(i = 0; i <= HorniMez; i++) 
+for (i = 0; i <= HorniMez; i++) 
 {
   if (i % 2 === 0) {
     console.log(i);
