@@ -10,5 +10,5 @@ let b = Number (prompt ("zadaj cislo B, ktore je vacsie ako A"));
 
 for (let i = a; i <= b; i = i + 1) 
 {
-console.log("cislo i je" + i);
+console.log("cislo i je " + i);
 }
