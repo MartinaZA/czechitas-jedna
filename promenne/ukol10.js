@@ -4,7 +4,7 @@ zadaných čísel, rozdíl zobrazujte jako absolutní hodnotu
 */
 
 function sucet (a, b) {
-  console.log("Sucet je: " a + b);
+  console.log("Sucet je: " a + b)
 }
 sucet (1, 3);
 
